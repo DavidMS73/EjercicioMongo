@@ -33,6 +33,6 @@ La API del proyecto es:
 
 Restricciones:
 
-Todos los campos (message, author) son requeridos
-El mensaje no puede tener menos de 5 caracteres
-El autor debe tener un nombre y un apellido separados por un espacio
+- Todos los campos (message, author) son requeridos
+- El mensaje no puede tener menos de 5 caracteres
+- El autor debe tener un nombre y un apellido separados por un espacio

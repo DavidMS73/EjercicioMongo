@@ -1,5 +1,11 @@
 const WebSocket = require("ws");
-var [getMessages, insertMessage] = require("./controllers/message");
+var [
+  getMessages,
+  getMessage,
+  insertMessage,
+  updateMessage,
+  deleteMessage,
+] = require("./controllers/message");
 const messageLogic = require("./logic/messageLogic");
 const clients = [];
 

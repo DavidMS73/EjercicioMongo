@@ -3,7 +3,7 @@
 
 > Reto de Mongo del curso ISIS3710.
 
-Para ejecutar se debe poner el comando: `npm start`
+Para ejecutar se debe poner el comando: `npm start` una vez se esté dentro de la carpeta chat.
 
 Luego, en el navegador entrar a la dirección localhost:3000. Se puede entrar al tiempo desde varias pestañas. En la página se pueden intercambiar mensajes usando un nombre de usuario, por defecto German Martinez.
 
